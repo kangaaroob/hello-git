@@ -1,4 +1,5 @@
 # THIS IS A COOL GITHUB PAGE FOR LEARNING
-![Image of Veil] (https://avatars2.githubusercontent.com/u/25539752?s=460&v=4)
+![Image of Veil](https://avatars2.githubusercontent.com/u/25539752?s=460&v=4)
+> This is Veil. He's pretty cool.
 ## BASICALLY MY OWN PERSONAL HELLO WORLD FOR GITHUB
 ###### SORRY IF YOU EXPECTED SOMETHING ACTUALLY INTERESTING
